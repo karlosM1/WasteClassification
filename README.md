@@ -1,2 +1,2 @@
-# WasteClassification
+# Test
 classification
